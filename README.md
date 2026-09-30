@@ -40,8 +40,8 @@ pip install dissect.target
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-account>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/secops-rz/dissect-netscaler-ioc.git
+cd dissect-netscaler-ioc
 ```
 
 The plugin can then be supplied to `target-query` using `--plugin-path`.
